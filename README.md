@@ -1,0 +1,2 @@
+# VZPodSpecs
+Pod Specs
